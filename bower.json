@@ -1,0 +1,32 @@
+{
+	"name": "matches-selector-polyfill",
+	"description": "A polyfill for Element.prototype.matches but also available as a module",
+	"main": "./dist/matches-selector-polyfill.js",
+	"authors": [
+		"Lee Cooper <lee.cooper@lski.uk>"
+	],
+	"license": "ISC",
+	"keywords": [
+		"matches",
+		"Element.prototype.matches",
+		"matchesSelector",
+		"$.is",
+		"jQuery.is",
+		"is"
+	],
+	"homepage": "https://github.com/lski/matches-selector-polyfill",
+	"moduleType": [],
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests",
+		"gulpfile.js",
+		"npm-debug.log"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/lski/matches-selector-polyfill.git"
+	}
+}
